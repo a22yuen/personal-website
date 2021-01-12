@@ -1,2 +1,2 @@
-TinDog Starting Files
 # personal-website
+My Personal website
