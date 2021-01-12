@@ -203,6 +203,10 @@ h3 {
   display: block;
 }
 
+.abilities .col-md-6{
+  margin-bottom: 10px;
+}
+
 li {
   margin: 0 0 3px 0;
 }
